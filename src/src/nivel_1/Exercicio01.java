@@ -1,5 +1,9 @@
 package nivel_1;
 
+/*
+ * Exercício 01: Leia o nome do usuário e exiba "Olá, [nome]!".
+ */
+
 import java.util.Scanner;
 
 public class Exercicio01 {

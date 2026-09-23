@@ -1,5 +1,10 @@
 package nivel_1;
 
+/*
+ * Exercício 03: Leia uma temperatura em Celsius e converta para
+ * Fahrenheit (F = C * 9/5 + 32).
+ */
+
 import java.util.Scanner;
 
 public class Exercicio03 {

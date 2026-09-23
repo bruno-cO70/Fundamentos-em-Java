@@ -1,5 +1,10 @@
 package nivel_1;
 
+/*
+ * Exercício 04: Leia o salário de um funcionário e o percentual de
+ * aumento, e mostre o novo salário.
+ */
+
 import java.util.Scanner;
 
 public class Exercicio04 {

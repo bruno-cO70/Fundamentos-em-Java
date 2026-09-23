@@ -1,5 +1,10 @@
 package nivel_1;
 
+/*
+ * Exercício 02: Leia dois números e mostre a soma, a subtração,
+ * a multiplicação e a divisão entre eles.
+ */
+
 import java.util.Scanner;
 
 public class Exercicio02 {

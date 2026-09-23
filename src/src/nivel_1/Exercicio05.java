@@ -1,5 +1,10 @@
 package nivel_1;
 
+/*
+ * Exercício 05: Leia um valor em segundos e mostre quantas horas,
+ * minutos e segundos ele representa (ex.: 3725 -> 1h 2min 5s).
+ */
+
 import java.util.Scanner;
 
 public class Exercicio05 {
