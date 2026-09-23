@@ -18,7 +18,30 @@ public class Exercicio10 {
         System.out.println("Digite um numero: ");
         double num2 = sc.nextDouble();
 
+        System.out.println("Digite a operação: \n+\n-\n*\n/");
         String operacao = sc.next();
 
+        switch(operacao){
+            case "+":
+                System.out.println("Resultado: "+ (num1 + num2));
+                break;
+            case "-":
+                System.out.println("Resultado: "+ (num1-num2));
+                break;
+            case "*":
+                System.out.println("Resultado: "+ (num1*num2));
+                break;
+            case "/":
+                if(num2 == 0){
+                    System.out.println("Erro: não é possível dividir por zero!");
+                }else{
+                    System.out.println("Resultado: "+ (num1/num2));
+                }
+                break;
+            default:
+                System.out.println("Operação inválida!!");
+                break;
+        }
+        sc.close();
     }
 }
