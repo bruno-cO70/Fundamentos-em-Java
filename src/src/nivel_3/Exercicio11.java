@@ -1,5 +1,9 @@
 package nivel_3;
 
+/*
+ * Exercício 11: Mostre a tabuada de um número digitado pelo usuário, de 1 a 10.
+ */ 
+
 import java.util.Scanner;
 
 public class Exercicio11 {

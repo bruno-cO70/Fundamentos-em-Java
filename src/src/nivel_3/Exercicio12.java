@@ -1,5 +1,9 @@
 package nivel_3;
 
+/*
+ * Exercício 12: Leia um número e calcule o fatorial dele (ex.: 5! = 120).
+ */
+
 import java.util.Scanner;
 
 public class Exercicio12 {
