@@ -1,5 +1,10 @@
 package nivel_4;
 
+/*
+ * Exercício 17: Leia 5 números, guarde num array e depois mostre todos
+ * na ordem em que foram digitados.
+ */
+
 import java.util.Scanner;
 
 public class Exercicio17 {

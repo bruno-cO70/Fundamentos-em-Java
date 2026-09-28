@@ -1,5 +1,10 @@
 package nivel_4;
 
+/*
+ * Exercício 18: Leia 5 números num array e mostre a soma e a média.
+ */
+
+
 import java.util.Scanner;
 
 public class Exercicio18 {
