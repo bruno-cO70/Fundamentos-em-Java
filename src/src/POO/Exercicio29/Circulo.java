@@ -3,15 +3,13 @@ package POO.Exercicio29;
 public class Circulo extends Forma{
 
     private double raio;
-    private double pi = Math.PI;
 
-    public Circulo(double raio, double pi){
+    public Circulo(double raio){
         super("Circulo");
-        this.pi = pi;
         this.raio = raio;
     }
     @Override
     public double calcularArea(){
-        return pi * raio;
+        return Math.PI * (raio*raio);
     }
 }

@@ -10,6 +10,6 @@ public abstract class Forma {
     public abstract double calcularArea();
 
     public void mostrarArea(){
-        System.out.println(nome + " sua Area é "+calcularArea());
+        System.out.printf(nome + ", sua Area é %.2f%n",calcularArea());
     }
 }
