@@ -21,6 +21,6 @@ public class ContaBancaria {
 
     }
     void mostrarSaldo(){
-        System.out.println(titular + " Seu saldo é: R$ " + saldo);
+        System.out.println(titular + ", Seu saldo é: R$ " + saldo);
     }
 }
