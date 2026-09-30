@@ -1,5 +1,13 @@
 package POO.Exercicio23;
 
+/*
+ * Exercício 23 - Métodos e a palavra-chave this
+ * Adicione à classe Produto os métodos valorTotalEmEstoque(),
+ * adicionarEstoque(int qtd) e removerEstoque(int qtd). Crie um produto,
+ * mostre o valor em estoque, adicione 10 unidades, remova 3 e mostre
+ * o valor novamente.
+ */
+
 public class Main {
     public static void main(String[] args) {
         Produto produto1 = new Produto();

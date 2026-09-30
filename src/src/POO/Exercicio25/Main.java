@@ -1,5 +1,12 @@
 package POO.Exercicio25;
 
+/*
+ * Exercício 25 - Encapsulamento (private, getters e setters)
+ * Deixe os atributos da ContaBancaria como private, crie getters para
+ * os três e um setter apenas para o titular, que recusa nomes em branco.
+ * O saldo só pode ser alterado por depósito ou saque.
+ */
+
 public class Main {
     public static void main(String[] args) {
         ContaBancaria conta1 = new ContaBancaria("Bruno", 123456);

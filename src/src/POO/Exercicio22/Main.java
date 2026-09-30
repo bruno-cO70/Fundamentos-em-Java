@@ -1,5 +1,12 @@
 package POO.Exercicio22;
 
+/*
+ * Exercício 22 - Classes e objetos
+ * Crie uma classe Produto com os atributos nome, preco e quantidade.
+ * Crie dois produtos e mostre, para cada um, o nome e o valor total
+ * em estoque (preço x quantidade).
+ */
+
 public class Main {
     public static void main(String[] args) {
         Produto produto1 = new Produto();
