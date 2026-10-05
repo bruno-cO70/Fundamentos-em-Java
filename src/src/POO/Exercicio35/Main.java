@@ -9,6 +9,7 @@ package POO.Exercicio35;
  * LampadaInteligente (conectáveis e controláveis por voz) e
  * FoneBluetooth (recarregável). No main, crie cada dispositivo uma
  * única vez e use-os em quatro arrays, um de cada tipo.
+ * POO - finalizado
  */
 
 public class Main {
