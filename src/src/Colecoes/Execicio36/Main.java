@@ -1,4 +1,4 @@
-package Colecoes;
+package Colecoes.Execicio36;
 
 /*
  * Exercício 36 - ArrayList
