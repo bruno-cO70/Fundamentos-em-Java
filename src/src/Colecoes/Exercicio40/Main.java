@@ -6,6 +6,7 @@ package Colecoes.Exercicio40;
  * em do-while e switch: adicionar, listar (avisando se estiver vazia),
  * buscar por nome, remover e sair. A remoção é feita fora do laço de
  * busca, para não alterar a lista enquanto ela é percorrida.
+ * ArrayList finalizado.
  */
 
 import java.util.ArrayList;
